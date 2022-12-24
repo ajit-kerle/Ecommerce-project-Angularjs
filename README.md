@@ -1,2 +1,2 @@
-# Ecommerce-project-Angularjs
+# Ecommerce-project-Angular
 Ecommerce-project-Angular
